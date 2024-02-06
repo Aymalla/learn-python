@@ -11,7 +11,6 @@ This is a simple application that demonstrates use python to create an object de
 curl -OL https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/retinanet_resnet50_fpn_coco-eeacb38b.pth
 ```
 
-
 2- To run the application, you can use: [`main.ipynb`](main.ipynb) or `make commands` or run the commands in your terminal.
 
 Using the `make commands` for shortcut:
